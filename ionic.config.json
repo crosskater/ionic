@@ -1,0 +1,8 @@
+{
+  "name": "listandmap",
+  "app_id": "963d14a3",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
